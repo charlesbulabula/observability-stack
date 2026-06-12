@@ -108,4 +108,4 @@ class CapacityForecaster:
     def close(self) -> None:
         self._client.close()
 
-# _r 20260606153203-9d6ddc16
+# _r 20260612142908-e595b745
